@@ -2,6 +2,7 @@ console.log('b');
 console.log('b');
 console.log('b');
 console.log('Important bugfix');
+console.log('feature 2');
 
 
 console.log('new feature goes here');
