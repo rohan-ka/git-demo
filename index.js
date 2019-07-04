@@ -4,6 +4,7 @@ console.log('b');
 console.log('Important bugfix');
 console.log('Important bugfix 2');
 console.log('feature 2');
+console.log('Important bugfix 3');
 
 
 console.log('new feature goes here');
