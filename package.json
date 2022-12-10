@@ -5,6 +5,6 @@
   "author": "Rohan Kamat <rohan.ka@media.net>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
